@@ -10,7 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            Console.Write("This is the intial commit 2");
+            Console.Write("This is the intial commit 3");
             Console.ReadLine();
         }
     }
